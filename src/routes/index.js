@@ -10,6 +10,6 @@ const Routes = () => (
           component={ListViewPage}
       />
   </Switch>
-)
+);
 
 export default Routes;
